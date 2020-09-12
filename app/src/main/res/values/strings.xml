@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Just Java - YANQI ZHOU</string>
+    <string name="name">Name</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="minus">-</string>
+    <string name="_1">1</string>
+    <string name="plus">+</string>
+    <string name="order">ORDER</string>
+    <string name="your_order_details">Your Order details</string>
+    <string name="email_order">EMAIL ORDER</string>
+    <string name="sava_data">Sava data</string>
+    <string name="sales_report">Sales Report</string>
+    <string name="re_order">Re-Order</string>
+    <string name="sales_details">Sales details</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="display_total_sales">DISPLAY TOTAL SALES</string>
+
+</resources>
