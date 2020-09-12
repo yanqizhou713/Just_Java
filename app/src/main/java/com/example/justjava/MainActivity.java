@@ -9,7 +9,7 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 
-
+// This is main activity of app
 public class MainActivity extends AppCompatActivity {
     public int quantity = 1;
     public int coffeeSinglePrice = 5;
